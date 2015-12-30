@@ -1,0 +1,8 @@
+{
+  "name": "noradf-angular-dropzone",
+  "version": "0.1.0",
+  "bowerDependencies": {
+    "dropzone": "~4.2.0",
+    "angular": "~1.4.8"
+  }
+}
